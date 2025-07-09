@@ -7,22 +7,11 @@
 
 ---
 
-### 📊 我的 GitHub 统计信息
-
-
+### 📊 我的 GitHub 统计与语言
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MingfengHong&show_icons=true&theme=radical" alt="MingfengHong 的 GitHub 统计信息" />
-</p>
-
----
-
-### 💻 我最常使用的语言
-
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MingfengHong&layout=compact&theme=radical" alt="热门语言" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MingfengHong&show_icons=true&theme=radical&hide_title=true" alt="MingfengHong 的 GitHub 统计信息" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MingfengHong&layout=compact&theme=radical&hide_title=true" alt="热门语言" />
 </p>
 
 ---
