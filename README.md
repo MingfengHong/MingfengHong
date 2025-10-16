@@ -13,12 +13,18 @@
   *My work may involve text analysis, prediction and machine learning, computational social science, large language models, simulation, and econometrics.*
 * 我非常非常希望能和信息系统、创新管理、计算传播等领域的朋友合作！不管是写论文、做项目还是单纯交流想法，都特别欢迎！欢迎大家来指导我！  
   *I am **very eager** to collaborate with researchers in information systems, innovation management, and computational communication! Whether it’s writing papers, working on projects, or just exchanging ideas, I’d be delighted to connect!*  
-* 同时，我正在积极寻找博士阶段的学习机会，尤其是社会计算、信息系统管理、计算传播与智能传播等方向。如果有老师愿意“顺手捞”一下我，我会非常感激！期待获得任何形式的随缘交流和指导！  
+* 同时，我正在积极寻找博士阶段的学习机会，尤其是社会计算、信息系统管理、计算传播与智能传播等方向，相信我的背景能为您团队的研究做出独特的贡献！期待获得任何形式的随缘交流和指导！  
   *I am also actively seeking Ph.D. opportunities, especially in the fields of computational social science, information systems management, computational communication, and intelligent communication. If any professors happen to have an opening and are willing to take me on, I’d be deeply grateful! I also warmly welcome any casual conversations or advice—sometimes the best opportunities come from serendipity!*  
 * 如果你正好看到这里，那可能就是缘分！ 🥰  
-  *If you happen to read this, maybe it’s fate! 🥰*
+  *If you happen to read this, maybe it’s fate!* 🥰
 
-- 📫 如何联系我 / How to reach me: **hongmingfeng24@mails.ucas.ac.cn**
+### 💡 我的研究哲学 / My Research Philosophy
+我相信计算是洞察社会现象的全新透镜，因此我正在努力学习将前沿的计算方法作为连接社会科学理论与鲜活数据之间的桥梁。如果您在这里看到了不够“优雅”的代码，那恰恰是我作为一名文科生，在探索技术边界时留下的真实足迹。 
+
+  *I believe that code is a new kind of microscope for observing social phenomena. My goal is to use cutting-edge computational methods to build a bridge between social science theory and real-world data. If you find code here that isn't perfectly elegant, it represents the authentic footprints of a liberal-arts student exploring the frontiers of technology.*
+
+> 📫 如何联系我 / How to reach me: **hongmingfeng24@mails.ucas.ac.cn**
+
 
 ---
 
@@ -53,7 +59,3 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MingfengHong&show_icons=true&theme=radical" alt="MingfengHong's GitHub Stats" />
 </p>
-
-**温馨提示 / Friendly reminder:**  
-我只是一个努力学习技术的文科生，不是真正的程序员，所以这些绿色块块儿不要太当真 🤪  
-*Just a friendly note:* I'm a liberal-arts student working hard to learn tech, not a professional coder, so don't take these green squares too seriously 🤪
